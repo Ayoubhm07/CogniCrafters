@@ -37,15 +37,20 @@ Structure du Projet :
 Le projet est divisé en plusieurs modules :
 
 Frontend (Angular) : Interface web pour les clients, associations et psychiatres.
+
 Backend (Spring) : API RESTful pour gérer les données et les interactions entre les utilisateurs.
+
 Jeux Unity : Jeux interactifs pour les enfants autistes avec intégration de la réalité virtuelle.
+
 Base de Données : Stockage des données utilisateur, des rendez-vous, des médicaments, des produits, des articles de blog, etc.
+
 Prérequis :
 Unity 3D : Version X.X.X
 Node.js : Version X.X.X
 Angular CLI : Version X.X.X
 Java JDK : Version X.X.X
 Maven : Version X.X.X
+
 Installation et Exécution :
 Cloner ce dépôt Git.
 Installer les dépendances pour le frontend Angular en exécutant npm install dans le dossier frontend.
